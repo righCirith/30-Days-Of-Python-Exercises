@@ -1,2 +1,2 @@
-# 30-Days-Of-Python
-These are my exercises from the repository 30-Days-Of-Python
+# 30-Days-Of-Python Exercises
+Exercises from this repository: https://github.com/Asabeneh/30-Days-Of-Python
