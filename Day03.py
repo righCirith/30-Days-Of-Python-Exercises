@@ -17,7 +17,6 @@ triangle_side_c = float(input('Type side c: '))
 triangle_perimeter = triangle_side_a + triangle_side_b + triangle_side_c
 print(f'Triangle Perimeter = {triangle_perimeter}')
 print(f'Triangle Area = {triangle_area}')
-1
 
 
 time.sleep(2)
