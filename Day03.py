@@ -1,3 +1,9 @@
+'''
+Created on Saturday Oct 10 23:12:06 2024
+author: @righCirith
+'''
+
+
 import math
 
 age = 100 #1.int
